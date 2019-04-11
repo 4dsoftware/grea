@@ -6,4 +6,4 @@ This is a graphic version of Response Envelope Analysis (REA) software. For deta
 
 ## Installation
 
-MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to Java application, the software tool requires installation of MATLAB Compiler Runtime (MCR), which is included in the package. Double-clicking "MyAppInstaller_web.exe" will initialize the installation. After installation of MCR is complete, one can use GREA as an executable.  
+MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to Java application, the software tool requires installation of MATLAB Compiler Runtime (MCR), which is included in the package. Double-clicking "MyAppInstaller_web.exe" will initialize the installation. After installation of MCR is complete, one can use GREA as an executable by clicking GREA.exe in this folder.  
